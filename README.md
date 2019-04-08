@@ -1,2 +1,32 @@
-# Control-de-posición-de-un-motor-DC
-Control de posición de un motor DC: proyecto 2me3a (2019)
+# Control-de-posicion-de-un-motor-DC
+    Autores: Joseba Giraldez y Tomas Garate
+El proyecto se basa en hacer un control de posición de un motor DC mediante PID
+ 
+ ///////////////////////////////////////////////////////////////////////////
+ 
+ INDICE DE ESQUEMAS Y PROGRAMACIONES DE ARDUINO:  </p>
+  
+///////////////////////////////////////////////////////////////////////////  
+DATASHEET  ARDUINO UNO </p> 
+HOJA DE DATOS  MICROMOTORREDUCTOR 6V </p>
+HOJA DE DATOS  ENCODER MAGNETICO </p>
+HOJA DE DATOS  PUENTE H </p>
+HOJA DE DATOS  POTENCIOMETRO </p>
+////////////////////////////////////////////////////////////////////////
+  
+  1-ESQUEMA  ENCODER CON ARDUINO </p>   
+  1-POGRAMCION LECTURA ENCODER </p>
+  2-ESQUEMA MOTOR 6V CON ARDUINO Y PUENTE H </p> 
+  2-PROGRAMACION PARA GIRO DEL MOTOR </p>  
+  3-ESQUEMA MOTOR CON ARDUINO,PUENTE H  Y ENCODER </p>
+  3-PROGRAMACION PARA LA LECTURA DEL ENCODER CON MOTOR </p>
+  4-ESQUEMA MILIS  UN LED </p>
+  4-PROGRAMACION LED CON MILIS </p>
+  5-ESQUEMA ENCODER </p>
+  5-PROGRAMACION LECTURA ENCODER CON MILIS </p>
+  6-ESQUEMA MOTOR, PUENTE H,  ENCODe </p>
+  6-PROGRAMACION GIRO DEL MOTOR CON LECTURA ENCODER EN MILIS Y PROPORCIONAL </p>
+  7- ESQUEMA MOTOR,  PUENTEH, ENCOD </p>
+  7-PROGRAMACION GIRO DEL MOTOR CON LECTURA ENCODER EN MILIS  CON PID </p>
+  8-MOTOR ESQUEM, PUENTEH. ,ENCODER.  Y  POTENCIOMETROS </p>
+  8-PROGRAMACION FINAL GIRO MOTOR, LECTURA ENCODER EN MILISS ,PID y POTENCIOMETROS </p>
