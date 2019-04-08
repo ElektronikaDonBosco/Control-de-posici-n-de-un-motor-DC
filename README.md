@@ -11,10 +11,10 @@ El proyecto se basa en hacer un control de posición de un motor DC mediante PID
 &nbsp;&nbsp;&nbsp;&nbsp;HOJA DE DATOS  PUENTE H </p>
 &nbsp;&nbsp;&nbsp;&nbsp;HOJA DE DATOS  POTENCIOMETRO </p>
 ### ESQUEMAS Y PROGRAMACIONES DE ARDUINO:
-&nbsp;&nbsp;&nbsp;&nbsp;1-ESQUEMA  ENCODER CON ARDUINO </p>   
+&nbsp;&nbsp;&nbsp;&nbsp;1-ESQUEMA  ENCODER CON ARDUINO </p>
 &nbsp;&nbsp;&nbsp;&nbsp;1-POGRAMCION LECTURA ENCODER </p>
 &nbsp;&nbsp;&nbsp;&nbsp;2-ESQUEMA MOTOR 6V CON ARDUINO Y PUENTE H </p> 
-&nbsp;&nbsp;&nbsp;&nbsp;2-PROGRAMACION PARA GIRO DEL MOTOR </p>  
+&nbsp;&nbsp;&nbsp;&nbsp;2-PROGRAMACION PARA GIRO DEL MOTOR </p>
 &nbsp;&nbsp;&nbsp;&nbsp;3-ESQUEMA MOTOR CON ARDUINO,PUENTE H  Y ENCODER </p>
 &nbsp;&nbsp;&nbsp;&nbsp;3-PROGRAMACION PARA LA LECTURA DEL ENCODER CON MOTOR </p>
 &nbsp;&nbsp;&nbsp;&nbsp;4-ESQUEMA MILIS  UN LED </p>
