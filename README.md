@@ -2,8 +2,6 @@
     Autores: Joseba Giraldez y Tomas Garate
 El proyecto se basa en hacer un control de posición de un motor DC mediante PID
  
- ///////////////////////////////////////////////////////////////////////////
- 
 ### INDICE:  </p>
 &nbsp;&nbsp;&nbsp;&nbsp;DATASHEET  ARDUINO UNO </p> 
 &nbsp;&nbsp;&nbsp;&nbsp;HOJA DE DATOS  MICROMOTORREDUCTOR 6V </p>
