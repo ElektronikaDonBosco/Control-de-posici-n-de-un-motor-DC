@@ -1,4 +1,4 @@
-# [Control de posición de un motor DC]()
+# [Control de posición de un motor DC](https://github.com/ElektronikaDonBosco/Control-de-posicion-de-un-motor-DC/wiki/CONTROL-DE-POSICI%C3%93N-DE-UN-MOTOR-DC)
     Autores: Joseba Giraldez y Tomas Garate
 El proyecto se basa en hacer un control de posición de un motor DC mediante PID
  
